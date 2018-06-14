@@ -1,0 +1,12 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "description": "NodeJs+Heroku",
+  "main": "index.js",
+  "repository": "https://github.com/ArtemTymchuk/danit-fs2.git",
+  "author": "Artem <artyomtymchuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
